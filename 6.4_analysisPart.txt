@@ -1,0 +1,14 @@
+i have written this part in About_project.docx as well
+
+
+
+
+
+Q 6.4 Analyze your results.
+Now if we analyze our created graph and generated results then we find following key points to note.
+•	When we changed the number of points, it created difference in processing time (Traversing time). 
+o	For example in case of hash table it took less time than tree, and in case of tree it took less time than the time taken by list. So it can be concluded that Hash table is much faster and can play good role in creation of re construction of network then using the other datas tructrues.
+•	Another point to notice was the difference in generation time of different data structure. 
+o	For example in case of hash table, it took very less time in creation then other structures. 
+o	Other thing is that tree took much time because of recursive nature of function (Note we have created tree with the use of recursion and list by use of while loop).
+•	By using the conclusion of above stated points we noticed that when we create the SVG graph with usage of Hash it took less time than creating with list or tree.
